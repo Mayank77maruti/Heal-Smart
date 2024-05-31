@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.8.0",
+    "firebase": "^10.11.0"
+  }
+}
