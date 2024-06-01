@@ -6,7 +6,7 @@
   </p>
 
 
-Welcome to HealSmart, an AI-powered medical assistant web app designed for the 2024 Google Girl Hackathon. The mission is to provide personalised healthcare recommendations, connect users with specialists, and offer mental health support. Leveraging advanced technologies like Machine Learning and Generative AI, my goal is to empower individuals to make informed healthcare decisions and enhance their well-being.
+Welcome to HealSmart, an AI-powered medical assistant web app. The mission is to provide personalised healthcare recommendations, connect users with specialists, and offer mental health support. Leveraging advanced technologies like Machine Learning and Generative AI, my goal is to empower individuals to make informed healthcare decisions and enhance their well-being.
 
 
 ## Web App Link
